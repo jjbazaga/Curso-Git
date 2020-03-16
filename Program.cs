@@ -7,6 +7,7 @@ namespace Estudando_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Acrescentando Ola tudo bem?");
         }
     }
 }
