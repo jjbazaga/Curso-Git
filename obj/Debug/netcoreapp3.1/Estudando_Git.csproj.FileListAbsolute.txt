@@ -1,0 +1,11 @@
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.exe
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.deps.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.runtimeconfig.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.runtimeconfig.dev.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\bin\Debug\netcoreapp3.1\Estudando_Git.pdb
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\obj\Debug\netcoreapp3.1\Estudando_Git.csprojAssemblyReference.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\obj\Debug\netcoreapp3.1\Estudando_Git.AssemblyInfoInputs.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\obj\Debug\netcoreapp3.1\Estudando_Git.AssemblyInfo.cs
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\obj\Debug\netcoreapp3.1\Estudando_Git.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 8\Git Hub\Exercicios\Estudando_Git\obj\Debug\netcoreapp3.1\Estudando_Git.pdb
